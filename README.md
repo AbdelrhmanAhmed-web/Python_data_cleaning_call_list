@@ -18,12 +18,18 @@ This project focuses on cleaning, standardizing, and preparing a messy customer 
 ## 📊 Before & After Comparison
 
 ### ❌ Before Cleaning (Raw Data)
-![Row Data](/<img width="1322" height="582" alt="b_fore_cleaning_call_customer_list" src="https://github.com/user-attachments/assets/5416a8ae-a67c-4123-a9de-195d04bd23eb" />
-)
+<img width="1322" height="582" alt="b_fore_cleaning_call_customer_list" src="https://github.com/user-attachments/assets/abb00280-4536-4edc-b9cb-743a1cf47a51" />
+
 
 ### ✅ After Cleaning (Final Call List)
-![Cleaned Data](/<img width="1152" height="415" alt="after_cleaning_call_list" src="https://github.com/user-attachments/assets/10cb02d9-5563-4db5-a897-8be1d1e19a88" />
-)
+<img width="1152" height="415" alt="after_cleaning_call_list" src="https://github.com/user-attachments/assets/21a70780-12d4-4630-b45f-d2ac4bbf2dba" />
+
+---
+## Code SnapShots
+<img width="1822" height="827" alt="code_data_cleaning_01" src="https://github.com/user-attachments/assets/31f4a903-9483-4799-a1fc-9a6322c6b947" />
+<img width="1837" height="452" alt="code_data_cleaning_02" src="https://github.com/user-attachments/assets/4d88d8ec-72a8-4d82-ad51-46e4f419f438" />
+<img width="1742" height="436" alt="code_data_cleaning_04" src="https://github.com/user-attachments/assets/f2463198-b334-49aa-862c-bfb10493878b" />
+<img width="1782" height="822" alt="code_data_cleaning_03" src="https://github.com/user-attachments/assets/0a8db34e-2ee2-45c1-86c1-f472b58d6e85" />
 
 ---
 
